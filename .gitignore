@@ -1,0 +1,16 @@
+# NetBeans / Ant
+build.xml
+manifest.mf
+nbproject/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Compilados Java
+*.class
+
+# MacOS
+.DS_Store
